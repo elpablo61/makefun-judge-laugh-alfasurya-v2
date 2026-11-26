@@ -1,0 +1,1 @@
+{"description":"Make the AI Judge Laugh (alfasurya91) v2 — one line about office life","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-judge-laugh-alfasurya-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"2.0.0"}
